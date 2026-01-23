@@ -3,10 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Michael
-middle_name: P.
-last_name: Notter
-email: michaelnotter@hotmail.com
+first_name: Magali
+middle_name: 
+last_name: Frauendorf
+email: magalifrauendorf@hotmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal homepage of Michael P. Notter.
 footer_text: >
