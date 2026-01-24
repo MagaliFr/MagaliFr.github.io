@@ -8,7 +8,7 @@ middle_name:
 last_name: Frauendorf
 email: magalifrauendorf@hotmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal homepage of Michael P. Notter.
+  Personal homepage of Magali Frauendorf.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
@@ -48,18 +48,18 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: miykael # your GitHub user name
+github_username: MagaliFr # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: miyka_el # your Twitter handle
 linkedin_username: michael-notter-5542b464 # your LinkedIn user name
 scholar_userid: cXB2flkAAAAJ # your Google Scholar ID
 orcid_id: #0000-0002-5866-047X # your ORCID ID
-medium_username: michael.notter # your Medium username
+medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: # work page URL
+work_url: https://www.slu.se/en/profilepages/f/magali-frauendorf/ # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
@@ -68,7 +68,7 @@ stackoverflow_id: #your stackoverflow id
 contact_note: >
   The easiest way to reach me is via e-mail, LinkedIn or Twitter. The fastest way is with chocolate 🍫.
 
-google_analytics: UA-126030922-1 # out your google-analytics code
+google_analytics: # out your google-analytics code
 panelbear_analytics: #XXXXXXXXX # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
