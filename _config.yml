@@ -66,8 +66,8 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
-contact_note: >
-  The easiest way to reach me is via e-mail, LinkedIn or Twitter. The fastest way is with chocolate 🍫.
+#contact_note: >
+#  The easiest way to reach me is via e-mail, LinkedIn or Twitter. The fastest way is with chocolate 🍫.
 
 google_analytics: # out your google-analytics code
 panelbear_analytics: #XXXXXXXXX # panelbear analytics site ID
@@ -76,7 +76,7 @@ panelbear_analytics: #XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Michael's blog  # your blog must have a name for it to show up in the nav bar
+#blog_name: Michael's blog  # your blog must have a name for it to show up in the nav bar
 blog_description: Things I'm passionate about!
 permalink: /blog/:year/:title/
 
