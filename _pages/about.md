@@ -6,13 +6,13 @@ description: #
 
 profile:
   align: right
-  image: michael.jpg
+  image: magali.jpg
   address: >
-    <p>Lausanne, Switzerland.</p>
-    <p>Languages: 🇩🇪 🇬🇧 🇫🇷</p>
+    <p>Umeå, Sweden.</p>
+    <p>Languages: en - de - nl - fr - sv - es </p>
     <p></p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
