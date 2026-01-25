@@ -1,0 +1,2 @@
+add cv page with link to cv and download cv as pdf
+add a Conferences tab

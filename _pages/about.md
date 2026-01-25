@@ -9,7 +9,7 @@ profile:
   image: magali.jpg
   address: >
     <p>Umeå, Sweden.</p>
-    <p>Languages: en - de - nl - fr - sv - es </p>
+    <p>Languages: en-de-nl-fr-sv</p>
     <p></p>
 
 news: false  # includes a list of news items
