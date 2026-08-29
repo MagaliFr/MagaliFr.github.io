@@ -10,20 +10,17 @@ nav_order: 5
 ## Quantitative & methodological training
 
 - **Harvest modelling** (2025)
+- **CV4Ecology summer course** — computer vision for ecology (2023)
 - **Bayesian Inference of Animal Demography** (2021)
 - **Modeling Population Dynamics – Estimating Demographic Parameters for Wildlife Conservation** (2020)
 - **Structural Equation Modelling** (2018)
 - **Applied Spatial Modelling with R** (2018)
 - **Integral Projection Models** (2017)
 
-## Computer vision & AI
-
-- **CV4Ecology summer course** — computer vision for ecology (2023)
-- Additional AI competence development for teachers and supervisors (2025)
-
 ## Teaching & supervision
 
 - **Doctoral Supervision** (2025)
+- **Additional AI competence development for teachers and supervisors** (2025)
 - **Teaching in Higher Education** (2024)
 - **Grading and Assessment** (2024)
 
