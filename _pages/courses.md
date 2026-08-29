@@ -1,18 +1,38 @@
 ---
 layout: page
-title: Courses
+title: Training & Courses
 permalink: /courses/
+description: Selected methodological, computational, pedagogical and communication training.
 nav: true
-nav_order: 3
+nav_order: 6
 ---
 
-## Teaching
+## Quantitative & methodological training
 
-### Course 1
-Short description.
+- **Harvest modelling** (2025)
+- **Bayesian Inference of Animal Demography** (2021)
+- **Modeling Population Dynamics – Estimating Demographic Parameters for Wildlife Conservation** (2020)
+- **Structural Equation Modelling** (2018)
+- **Applied Spatial Modelling with R** (2018)
+- **Integral Projection Models** (2017)
 
-### Course 2
-Short description.
+## Computer vision & AI
 
-### Course 3
-Short description.
+- **CV4Ecology summer course** — computer vision for ecology (2023)
+- Additional AI competence development for teachers and supervisors (2025)
+
+## Teaching & supervision
+
+- **Doctoral Supervision** (2025)
+- **Teaching in Higher Education** (2024)
+- **Grading and Assessment** (2024)
+
+## Science communication & professional development
+
+- **Transfer your science into news** (2020)
+- **The Floor is Yours: How to present your research online** (2020)
+- **Work–Life Balance in Real Life** (2019)
+- **Making science more accessible** (2019)
+- **Getting social for science communication** (2019)
+
+<!-- TODO: Add course providers, dates, duration/ECTS and certificates if you want this page to function as an extended CV. -->

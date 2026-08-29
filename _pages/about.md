@@ -2,23 +2,26 @@
 layout: about
 title: About
 permalink: /
-description: #
-
+description:
 profile:
   align: right
   image: magali.jpg
   address: >
-    <p>Umeå, Sweden.</p>
-    <p>Languages: en-de-nl-fr-sv</p>
-    <p></p>
-
-news: false  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+    <p>Umeå, Sweden</p>
+    <p>Wildlife ecology · Quantitative ecology · Camera trapping & AI</p>
+news: false
+selected_papers: true
+social: true
 ---
 
-I am a **Lead AI Research Scientist and Neuroscientist** developing advanced models and processing pipelines in neuroimaging, computer vision, vital signs monitoring, AR/VR, and multi-sensor sensing. With a strong background in biomedical signals, constrained optimization, and statistical inference, I create automated, adaptive processing pipelines that maximize efficiency from cutting-edge hardware and software. Passionate about applying machine learning to deliver impactful end-user experiences, I smoothly collaborate with cross-functional teams within and outside of the company to translate complex research into robust, scalable solutions.
+I am a wildlife ecologist and researcher at the Department of Wildlife, Fish and Environmental Studies at the Swedish University of Agricultural Sciences (SLU).
 
-With a knack for quality, efficiency, and transparency, I **am experienced** in working on challenging projects, both as a team member and project leader. Leading technical projects with autonomy and precision, I tackle complex challenges in high-stakes environments, minimizing computational and energy costs while maximizing AI impact. My expertise extends to crafting innovative toolboxes, mentoring, and leading proof-of-concept projects across sectors like medicine, manufacturing, semiconductors, and optical solutions. Collaborating with stakeholders from academia and industry, I apply my insights and methods with precision and adaptability. For more, check out my **<a href="/assets/pdf/CV_Notter.pdf">curriculum vitae</a>**, **<a href="/publications">publications</a>**, **<a href="/background">background</a>**, and **<a href="/projects">projects</a>** page.
+My research combines **wildlife ecology, quantitative methods, citizen science and emerging monitoring technologies**. I am particularly interested in how camera trapping, computer vision and ecological modelling can be used to improve wildlife monitoring and management under changing environmental conditions.
 
-**My passion** for my work springs from an unquenchable curiosity and a profound desire to unravel complex systems. Holding patents in machine learning and optical solutions that enhance human-computer interaction, I thrive in collaborative projects across academia and industry, committed to pushing the boundaries of what is possible. If you share my enthusiasm, don't hesitate to <a href="/contact">contact me</a> or explore my <a href="/blog">blog</a>.
+My current work focuses especially on **ungulates**, including the development of AI-based approaches for extracting information on species, sex, age and reproduction from camera-trap images, and on connecting these observations to population-level indicators.
+
+Earlier in my career, I worked extensively on the reproductive ecology and population dynamics of Eurasian oystercatchers, as well as on wild boar ecology and management. Across these systems, a common theme in my work is understanding how environmental conditions affect individual performance and population processes.
+
+My work spans fundamental and applied ecology and often involves collaboration with researchers, wildlife managers, citizen scientists and other stakeholders.
+
+You can read more about my [research projects](/projects/), [publications](/publications/), [teaching and supervision](/teaching/), and [training](/courses/).
