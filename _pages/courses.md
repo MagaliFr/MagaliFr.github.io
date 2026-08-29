@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Training & Courses
+nav_title: Training
 permalink: /courses/
 description: Selected methodological, computational, pedagogical and communication training.
 nav: true

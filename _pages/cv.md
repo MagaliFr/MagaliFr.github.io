@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Online CV
+nav_title: CV
 permalink: /online-cv/
 description: Curriculum vitae
 nav: true

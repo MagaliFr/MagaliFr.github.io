@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Applied Research
+nav_title: Applied
 permalink: /applied-research/
 description: Applied research assignments, reports and outputs for wildlife monitoring and management.
 nav: true

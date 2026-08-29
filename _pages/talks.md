@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Talks & Conferences
+nav_title: Conferences
 permalink: /talks/
 description: Selected invited talks, conference presentations and scientific meetings.
 nav: true

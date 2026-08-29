@@ -2,6 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching & Supervision
+nav_title: Teaching
 description: Teaching, supervision and mentoring.
 nav: true
 nav_order: 4
