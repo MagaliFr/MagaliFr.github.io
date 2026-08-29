@@ -4,7 +4,7 @@ title: Talks & Conferences
 permalink: /talks/
 description: Selected invited talks, conference presentations and scientific meetings.
 nav: true
-nav_order: 8
+nav_order: 6
 ---
 
 ## Invited talks

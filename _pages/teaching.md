@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching & Supervision
 description: Teaching, supervision and mentoring.
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 ## Teaching

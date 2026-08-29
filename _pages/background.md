@@ -4,7 +4,7 @@ permalink: /background/
 title: Background
 description: Research experience and education.
 nav: true
-nav_order: 2
+nav_order: 1
 ---
 
 ## Current position

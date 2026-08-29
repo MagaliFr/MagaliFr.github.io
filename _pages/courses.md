@@ -4,7 +4,7 @@ title: Training & Courses
 permalink: /courses/
 description: Selected methodological, computational, pedagogical and communication training.
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 ## Quantitative & methodological training
