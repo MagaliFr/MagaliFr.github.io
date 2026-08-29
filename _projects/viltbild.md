@@ -2,7 +2,7 @@
 layout: page
 title: Viltbild
 description: A national camera-trap platform for long-term monitoring of Swedish game species.
-importance: 2
+importance: 3
 category: research
 ---
 

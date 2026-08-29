@@ -2,7 +2,7 @@
 layout: page
 title: Nordic AI network
 description: Building a Nordic collaborative network for AI-enabled wildlife research.
-importance: 3
+importance: 2
 category: research
 ---
 
