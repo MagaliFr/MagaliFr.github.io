@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Academic Service
+nav_title: Service 
 permalink: /academic-service/
 description: Peer review, editorial work and contributions to the academic community.
 nav: true
