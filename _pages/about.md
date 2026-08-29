@@ -24,4 +24,4 @@ Earlier in my career, I worked extensively on the reproductive ecology and popul
 
 My work spans fundamental and applied ecology and often involves collaboration with researchers, wildlife managers, citizen scientists and other stakeholders.
 
-You can read more about my [research projects](/projects/), [publications](/publications/), [teaching and supervision](/teaching/), and [training](/courses/).
+You can read more about my [research projects](https://magalifr.github.io/projects/), [publications](https://magalifr.github.io/publications/), [teaching and supervision](https://magalifr.github.io/teaching/), [training](https://magalifr.github.io/courses/), or view my [online CV](https://magalifr.github.io/online-cv/).
