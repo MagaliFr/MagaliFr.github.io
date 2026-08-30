@@ -10,6 +10,8 @@ nav_order: 6
 
 **Summary:** 21 conference and scientific-meeting attendances across 12 countries (2015–2026), including 2-co-hosted sessions, 14 oral presentations and 1 poster presentation, plus 3 invited talks and seminars.
 
+---
+
 ## Invited talks and seminars
 
 - **Norwegian Institute for Nature Research (NINA), Trondheim, Norway** (2026)  
@@ -43,7 +45,7 @@ nav_order: 6
 
 - **Viltkonferensen**, Stockholm, Sweden — oral presentation
 - **Nordic Oikos Conference**, Lund, Sweden — oral presentation and co-hosted session
-- **Camera Traps, AI, and Ecology** — online
+- **Camera Traps, AI, and Ecology**, online
 
 ### 2023
 
@@ -51,18 +53,18 @@ nav_order: 6
 
 ### 2021
 
-- **International Wader Study Group Conference (IWSG)** — online
+- **International Wader Study Group Conference (IWSG)**, online
 
 ### 2020
 
-- **International Wader Study Group Conference (IWSG)** — online, oral presentation
+- **International Wader Study Group Conference (IWSG)**, online — oral presentation
 - **III Élvonal Shorebird Conference**, Debrecen, Hungary — oral presentation
 - **Netherlands Annual Ecology Meeting (NAEM)**, Lunteren, The Netherlands — oral presentation
 
 ### 2019
 
 - **British Ecological Society Annual Meeting (BES)**, Belfast, United Kingdom — oral presentation
-- **Netherlands Annual Ecology Meeting (NAEM)**, Lunteren, The Netherlands — co-hosted session
+- **Netherlands Annual Ecology Meeting (NAEM)**, Lunteren, The Netherlands — oral presentation and co-hosted session
 - **European Ornithologists' Union Conference (EOU)**, Cluj-Napoca, Romania — oral presentation
 
 ### 2018
@@ -72,7 +74,7 @@ nav_order: 6
 
 ### 2017
 
-- **Netherlands Annual Ecology Meeting (NAEM)**, Lunteren, The Netherlands — attendance
+- **Netherlands Annual Ecology Meeting (NAEM)**, Lunteren, The Netherlands
 
 ### 2015
 
