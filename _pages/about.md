@@ -8,9 +8,8 @@ profile:
   image: magali.jpg
   address: >
     <p>Umeå, Sweden</p>
-    <p>Wildlife ecology · Quantitative ecology · Camera trapping & AI</p>
 news: false
-selected_papers: true
+selected_papers: false
 social: true
 ---
 
